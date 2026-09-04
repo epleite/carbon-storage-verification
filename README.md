@@ -31,8 +31,7 @@ The study separates three quantities that are often conflated in geological CO2 
 - `code/reproduce_figures.py` — regenerates all manuscript and supplementary figures into `reproduced/figures/`;
 - `code/run_all.py` — one-command reproduction and numerical verification;
 - `tests/test_release.py` — structural/scientific smoke tests;
-- `docs/` — evidence rubric, data provenance, reproducibility notes, AI-assistance disclosure and claim-to-file index;
-- `MANIFEST.csv` and `SHA256SUMS.txt` — release inventory and integrity records.
+- `docs/` — evidence rubric, data provenance, reproducibility notes, AI-assistance disclosure, final author sign-off, and claim-to-file index.
 
 ## Quick start
 
@@ -97,4 +96,4 @@ GitHub repository:
 
 https://github.com/epleite/carbon-storage-verification
 
-Archive this exact `v1.0.0` release in Zenodo and use the resulting DOI in the manuscript's Data and Code Availability statements.
+Create a GitHub release/tag named `v1.0.0`, archive that exact release in Zenodo, and use the resulting DOI in the manuscript's Data and Code Availability statements.
