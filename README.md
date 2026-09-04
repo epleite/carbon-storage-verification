@@ -90,10 +90,10 @@ OpenAI ChatGPT was used for structured search assistance, preliminary source tri
 
 ## Citation and archival release
 
-Version **1.0.0** is the submission release. Citation metadata are provided in `CITATION.cff` and `.zenodo.json`.
+Version **1.0.0** is the frozen submission release. Version **1.0.1** is the Zenodo archival release created solely to trigger post-enable ingestion by Zenodo; it contains **no scientific or numerical changes** relative to v1.0.0. Citation metadata are provided in `CITATION.cff` and `.zenodo.json`.
 
 GitHub repository:
 
 https://github.com/epleite/carbon-storage-verification
 
-Create a GitHub release/tag named `v1.0.0`, archive that exact release in Zenodo, and use the resulting DOI in the manuscript's Data and Code Availability statements.
+Archive release/tag `v1.0.1` in Zenodo and use the resulting DOI in the manuscript's Data and Code Availability statements.
