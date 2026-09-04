@@ -1,0 +1,16 @@
+asset_id,asset,maturity,operation,dominant,union_std_recode,union_enh_recode,union_enh_s06,k3,k4,k3_e2plus,k4_e2plus,B1
+A01,CNOOC Enping offshore CCS,mature_primary,2023,A1,0.782425,0.813075,0.7926450000000002,1,1,False,False,False
+A02,Eastern Wyoming Sequestration Hub (Juniper I-1),immature_primary,2025,A6,0.08865,0.248025,0.23472,1,1,False,False,False
+A03,Gorgon CCS,mature_primary,2019,A8,0.229425,0.3604,0.40412,2,2,True,True,False
+A04,Illinois Industrial Carbon Capture and Storage (ADM),mature_primary,2017,A6,0.08865,0.248025,0.334395,1,2,False,True,False
+A05,Meadowbrook Carbon Storage Hub,immature_primary,2025,A9,0.1159,0.2481,0.18994999999999998,1,1,False,False,False
+A06,Midwest AgEnergy Blue Flint ethanol (ND),mature_primary,2023,A5,0.386875,0.5508000000000001,0.44539000000000006,1,1,False,False,False
+A07,Northern Lights Phase 1,immature_primary,2025,A3,0.420325,0.4977750000000001,0.43123,1,1,False,False,False
+A08,Quest CCS,mature_primary,2015,A5,0.37295,0.5578500000000001,0.44872999999999996,2,2,True,True,False
+A09,Red Trail Energy BECCS,mature_primary,2022,A5,0.4656,0.646,0.5016200000000001,1,1,False,False,False
+A10,Moomba Carbon Capture and Storage,ambiguous_2024,2024,A5,0.3767375,0.5316375,0.42968999999999996,2,2,True,True,False
+A11,Sleipner,mature_primary,1996,A1,0.993,0.9957,0.9124350000000001,3,3,True,True,False
+A12,Snøhvit — facility A65992,mature_primary,2008,A7,0.1348125,0.18898750000000003,0.27374000000000004,2,1,True,False,False
+A13,Carbfix Hellisheiði storage asset,mature_primary,2021,B1,,,,3,3,True,True,True
+A14,Campo Viejo Gas Processing Plant,ambiguous_2024,2024,A10,0.0025,0.0155,0.05039,1,1,False,False,False
+A15,Piñon Dark Horse Treating Facility and storage,ambiguous_2024,2024,A10,0.0025,0.0155,0.038759999999999996,1,1,False,False,False

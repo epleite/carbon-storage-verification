@@ -1,0 +1,11 @@
+code,description,analogue,amp,ts_std,union_std,ts_enh,union_enh,time_only
+A1,"Shallow offshore, high-porosity sandstone",Sleipner-like,0.9908,0.9726,0.993,0.9907,0.9957,0.0049
+A2,Intermediate-depth offshore sandstone,North Sea saline storage,0.9211,0.7935,0.9275,0.9055,0.9447,0.0236
+A3,Deep consolidated offshore sandstone,Deep offshore storage,0.4928,0.2535,0.5102,0.4681,0.5753,0.0826
+A4,Shallow porous onshore sandstone,Ketzin-depth class,0.807,0.444,0.8112,0.7452,0.85,0.0429
+A5,Intermediate-depth onshore sandstone,Commercial saline aquifer,0.3937,0.3318,0.4656,0.62,0.646,0.2523
+A6,Deep stiff onshore sandstone,IBDP-like,0.0115,0.0932,0.095,0.2934,0.2934,0.282
+A7,Thin and compartmentalized sandstone,At/below tuning,0.0661,0.0106,0.0696,0.0813,0.1119,0.0458
+A8,Shaly heterogeneous sandstone,Low net-to-gross,0.1123,0.0981,0.1507,0.2528,0.2652,0.153
+A9,Porous fractured carbonate,Heterogeneous carbonate storage,0.0816,0.0692,0.1159,0.2334,0.2481,0.1665
+A10,Deep tight carbonate,Low-porosity carbonate,0.0015,0.0011,0.0025,0.0148,0.0155,0.014

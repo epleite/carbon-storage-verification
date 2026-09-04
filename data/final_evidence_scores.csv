@@ -1,0 +1,16 @@
+id,asset,country,maturity,operation,k2,k3,k4
+A01,CNOOC Enping offshore CCS,China,mature_primary,2023,2,1,1
+A02,Eastern Wyoming Sequestration Hub (Juniper I-1),United States,immature_primary,2025,1,1,1
+A03,Gorgon CCS,Australia,mature_primary,2019,2,2,2
+A04,Illinois Industrial Carbon Capture and Storage (ADM),United States,mature_primary,2017,2,1,2
+A05,Meadowbrook Carbon Storage Hub,Canada,immature_primary,2025,1,1,1
+A06,Midwest AgEnergy Blue Flint ethanol (ND),United States,mature_primary,2023,2,1,1
+A07,Northern Lights Phase 1,Norway,immature_primary,2025,2,1,1
+A08,Quest CCS,Canada,mature_primary,2015,2,2,2
+A09,Red Trail Energy BECCS,United States,mature_primary,2022,2,1,1
+A10,Moomba Carbon Capture and Storage,Australia,ambiguous_2024,2024,2,2,2
+A11,Sleipner,Norway,mature_primary,1996,3,3,3
+A12,Snøhvit — facility A65992,Norway,mature_primary,2008,2,2,1
+A13,Carbfix Hellisheiði storage asset,Iceland,mature_primary,2021,2,3,3
+A14,Campo Viejo Gas Processing Plant,United States,ambiguous_2024,2024,2,1,1
+A15,Piñon Dark Horse Treating Facility and storage,United States,ambiguous_2024,2024,2,1,1

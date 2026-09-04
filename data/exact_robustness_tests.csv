@@ -1,0 +1,23 @@
+outcome,test_family,predictor,estimate,p_value,estimate_type
+K3,Exact E2+ vs E1,physical,0.16215944444444452,0.3191808191808192,mean difference
+K3,Exact E2+ vs E1,age_y,10.71111111111111,0.008491508491508492,mean difference
+K3,Exact E2+ vs E1,topology,-0.5555555555555554,0.5469530469530469,mean difference
+K3,Exact E2+ vs E1,mandatory,-0.28888888888888886,0.5054945054945055,mean difference
+K3,Exact ordinal E1/E2/E3,physical,0.3049264377687365,0.2844155844155844,Spearman rho
+K3,Exact ordinal E1/E2/E3,age_y,0.6487656441170009,0.014685314685314685,Spearman rho
+K3,Exact ordinal E1/E2/E3,topology,-0.2541251786818291,0.36183816183816186,Spearman rho
+K3,Mature-only exact,physical,-0.03874062499999997,0.8571428571428571,mean difference
+K3,Mature-only exact,age_y,11.75,0.05714285714285714,mean difference
+K3,Mature-only exact,topology,-1.0,0.5142857142857142,mean difference
+K3,Pioneer leave-one-out,operational_age_y,6.611111111111111,0.023776223776223775,minimum age contrast; worst exact p
+K4,Exact E2+ vs E1,physical,0.18052666666666678,0.26823176823176825,mean difference
+K4,Exact E2+ vs E1,age_y,7.911111111111111,0.07092907092907093,mean difference
+K4,Exact E2+ vs E1,topology,0.3777777777777773,0.6893106893106893,mean difference
+K4,Exact E2+ vs E1,mandatory,0.022222222222222254,1.0,mean difference
+K4,Exact ordinal E1/E2/E3,physical,0.35574751073019256,0.2111888111888112,Spearman rho
+K4,Exact ordinal E1/E2/E3,age_y,0.5804745236836324,0.03026973026973027,Spearman rho
+K4,Exact ordinal E1/E2/E3,topology,0.09362506583014757,0.773026973026973,Spearman rho
+K4,Mature-only exact,physical,-0.009221875000000046,0.9714285714285714,mean difference
+K4,Mature-only exact,age_y,7.249999999999999,0.37142857142857144,mean difference
+K4,Mature-only exact,topology,0.5,0.8285714285714286,mean difference
+K4,Pioneer leave-one-out,operational_age_y,3.3611111111111107,0.34265734265734266,minimum age contrast; worst exact p

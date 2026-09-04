@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Carbon-storage verification: reproducibility package"
+message: "If you use this repository, please cite the associated manuscript and this software/data release."
+type: software
+authors:
+  - family-names: Leite
+    given-names: Emilson Pereira
+    orcid: "https://orcid.org/0000-0003-1691-6243"
+    affiliation: "Institute of Geosciences, University of Campinas (UNICAMP)"
+version: 1.0.0
+date-released: 2026-09-04
+repository-code: "https://github.com/epleite/carbon-storage-verification"
+license: MIT
+keywords:
+  - geological carbon storage
+  - carbon capture and storage
+  - CCS
+  - seismic monitoring
+  - conformance
+  - containment
+  - public evidence
+  - reproducibility
