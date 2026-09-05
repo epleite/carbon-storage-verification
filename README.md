@@ -80,7 +80,7 @@ Only compact derived site identifiers and author-generated classifications are i
 
 ## Use of generative AI
 
-OpenAI ChatGPT assisted with literature search, coding and language editing. The author reviewed and validated all data, analyses and scientific conclusions. Additional workflow provenance is retained in `docs/AI_ASSISTANCE.md`.
+OpenAI ChatGPT assisted with literature search, coding and language editing. The author takes full responsibility for the integrity and scientific content of the work. Additional workflow provenance is retained in `docs/AI_ASSISTANCE.md`.
 
 ## Licences
 
