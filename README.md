@@ -2,7 +2,7 @@
 
 Reproducibility repository for the manuscript:
 
-> **Seismic detectability and public verification diverge across operational geological carbon storage projects**
+> **Public verification diverges from seismic detectability in operational geological carbon storage**
 
 Author: **Emilson Pereira Leite**  
 Department of Geology and Natural Resources, Institute of Geosciences, University of Campinas (UNICAMP), Brazil  
@@ -90,10 +90,12 @@ OpenAI ChatGPT was used for structured search assistance, preliminary source tri
 
 ## Citation and archival release
 
-Version **1.0.0** is the frozen submission release. Version **1.0.1** is the Zenodo archival release created solely to trigger post-enable ingestion by Zenodo; it contains **no scientific or numerical changes** relative to v1.0.0. Citation metadata are provided in `CITATION.cff` and `.zenodo.json`.
+Version **1.0.0** is the frozen submission release. Version **1.0.1** is the Zenodo archival release created solely to trigger post-enable ingestion by Zenodo; it contains **no scientific or numerical changes** relative to v1.0.0.
 
-GitHub repository:
+Zenodo DOI: **10.5281/zenodo.22313537**  
+https://doi.org/10.5281/zenodo.22313537
 
+GitHub repository:  
 https://github.com/epleite/carbon-storage-verification
 
-Archive release/tag `v1.0.1` in Zenodo and use the resulting DOI in the manuscript's Data and Code Availability statements.
+The final manuscript title was shortened after the archival release; this metadata-only change does not alter any scientific content, data classification, code or numerical result in the archived v1.0.1 package.
