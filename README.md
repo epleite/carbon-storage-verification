@@ -2,7 +2,7 @@
 
 Reproducibility repository for the manuscript:
 
-> **Public verification diverges from seismic detectability in operational geological carbon storage**
+> **Seismic detectability does not predict public verification across operational CO2 storage projects**
 
 Author: **Emilson Pereira Leite**  
 Department of Geology and Natural Resources, Institute of Geosciences, University of Campinas (UNICAMP), Brazil  
@@ -60,7 +60,7 @@ The manuscript uses three claim-specific evidence axes:
 
 Evidence depth is E0-E4. The main threshold is E2 or higher. K3/K4 require uncertainty, a detection limit or a sensitivity statement appropriate to the claim. Full definitions are in `docs/EVIDENCE_RUBRIC.md`.
 
-All 45 final site-by-claim classifications were source-checked and confirmed by the sole author on **2026-09-04**, without score changes. The earlier isolated AI-assisted scoring passes are retained only as workflow provenance and are not interpreted as independent human inter-rater validation. Classification uncertainty is represented directly through source-based defensible bounds.
+All 45 final site-by-claim classifications were source-checked and confirmed by the sole author on **2026-09-04**, without score changes. Classification uncertainty is represented directly through source-based defensible bounds.
 
 ## Data provenance and third-party data
 
@@ -78,9 +78,9 @@ Only compact derived site identifiers and author-generated classifications are i
 - Capacity-weighted global inference is intentionally not released because the pre-specified megaproject leave-one-out stability check failed.
 - The small-sample logistic models are supplementary diagnostics and must not be interpreted as population predictive-performance estimates.
 
-## AI-assisted workflow
+## Use of generative AI
 
-OpenAI ChatGPT was used for structured search assistance, preliminary source triage/classification under author-defined rules, code support, and language editing. Scientific criteria, retained-source review, final evidence classifications, ambiguity bounds and manuscript conclusions remain the responsibility of the author. See `docs/AI_ASSISTANCE.md`.
+OpenAI ChatGPT assisted with literature search, coding and language editing. The author reviewed and validated all data, analyses and scientific conclusions. Additional workflow provenance is retained in `docs/AI_ASSISTANCE.md`.
 
 ## Licences
 
@@ -98,4 +98,4 @@ https://doi.org/10.5281/zenodo.22313537
 GitHub repository:  
 https://github.com/epleite/carbon-storage-verification
 
-The final manuscript title was shortened after the archival release; this metadata-only change does not alter any scientific content, data classification, code or numerical result in the archived v1.0.1 package.
+The final manuscript title and figure headings were refined after the archival release. These presentation-only changes do not alter any scientific content, data classification, code calculation or numerical result in the archived v1.0.1 package.
